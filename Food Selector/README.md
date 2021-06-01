@@ -5,4 +5,4 @@ App designed in Kotlin based on [Dice Roller App](https://github.com/Sidhved/Dro
 [Click here to fins the images used in this app](https://github.com/Sidhved/Droid/tree/main/Food%20Selector/app/src/main/res/drawable)
 
 ## APK
-The installing apk for the app can be found at [Link]() and works on Android 6+
+The installing apk for the app can be found at [Link](https://github.com/Sidhved/Droid/blob/main/Food%20Selector/app-debug.apk) and works on Android 6+
